@@ -1,0 +1,37 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "Hi, I’m a software engineer, my main area of expertise is iOS development. This site is an entry point to my personal projects. If you have any questions, contact me. ",
+    "url": "/about/",
+    
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "Contact",
+    "title": "Contact",
+    "content": "Leave your email and I’ll get back to you: https://forms.gle/nRjEL8gFJtXW4mjo6 . ",
+    "url": "/contact/",
+    
+    "relUrl": "/contact/"
+  },"2": {
+    "doc": "HackerNewt",
+    "title": "HackerNewt",
+    "content": "HackerNewt is a Hacker News client that uses an alternative way of displaying comment tree. Advantages over traditional interfaces: . | You always see the parent of the comment you’re currently reading | Comment width doesn’t get narrower no matter how deep in the tree you are | You can easily skip subtrees that don’t interest you by scrolling | Swiping allows you to move in and out of subtrees with animated transitions that you fully control | . It all works together to help you maintain context and keep track of where you are in the discussion tree. There are also: custom boards, search, in-thread search, anchors, reading list, recent items. ",
+    "url": "/projects/hackernewt/",
+    
+    "relUrl": "/projects/hackernewt/"
+  },"3": {
+    "doc": "Projects",
+    "title": "Projects",
+    "content": "My personal projects: . ",
+    "url": "/projects/",
+    
+    "relUrl": "/projects/"
+  },"4": {
+    "doc": "PhasmoTracker",
+    "title": "PhasmoTracker",
+    "content": "PhasmoTracker is a helper app for Phasmophobia game. It helps tracking the progress and solving puzzles that are part of game’s mechanics. ",
+    "url": "/projects/phasmotracker/",
+    
+    "relUrl": "/projects/phasmotracker/"
+  }
+}
